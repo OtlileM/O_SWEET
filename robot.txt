@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://otlilem.github.io/O-Sweets/sitemap.xmlS
